@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @namanaman
-- 👀 I’m interested in using technology for meaningful and humane ends.
-- 📫 How to reach me: agrawal.nmn@gmail.com
+- 💭 I want to build technology for meaningful and humane ends
 
 <!---
 namanaman/namanaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
