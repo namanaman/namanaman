@@ -7,7 +7,7 @@
   - New Jersey open-source [feedback-as-a-service tool](https://github.com/newjersey/feedback-widget)
   - New Jersey open-source [AI assistant](https://github.com/newjersey/nj-ai-assistant)
   - Facebook's [Connectivity Analytics](https://engineering.fb.com/2018/08/10/connectivity/announcing-tools-to-help-partners-improve-connectivity/) data visualization platform
-  - Facebook's photo album experience on the [mobile web](http://www.m.facebook.com)
+  - Facebook's photo album UX on [mobile web](https://www.m.facebook.com)
   - [Personal website](https://namanaman.github.io)
 
 <!---
