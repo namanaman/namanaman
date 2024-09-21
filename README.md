@@ -8,7 +8,6 @@
   - New Jersey open-source [AI assistant](https://github.com/newjersey/nj-ai-assistant)
   - Facebook's [Connectivity Analytics](https://engineering.fb.com/2018/08/10/connectivity/announcing-tools-to-help-partners-improve-connectivity/) data visualization platform
   - Facebook's photo album UX on [mobile web](https://www.facebook.com)
-  - [Personal website](https://namanaman.github.io)
 
 <!---
 namanaman/namanaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
